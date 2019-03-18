@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ksu.Cis300.TrieLibrary
 {
-    public class Class1
+    public class Trie
     {
     }
 }
